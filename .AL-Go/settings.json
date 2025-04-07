@@ -5,7 +5,7 @@
   "bcptTestFolders": [],
   "repoVersion": "2.0",
     "DeployToMy-QA": {
-    "EnvironmentName": "Production",
+    "EnvironmentName": "CIT_develop",
     "continuousDeployment": true
   }
 }
