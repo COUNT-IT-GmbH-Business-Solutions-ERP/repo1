@@ -3,5 +3,6 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "CurrentSchedule": "0 2 * * *",
   "NextMinorSchedule": "0 2 * * 6",
-  "NextMajorSchedule": "0 2 * * 0"
+  "NextMajorSchedule": "0 2 * * 0",
+  "templateSha": "a91a50b7fa2a88d8fa0b8eab99a66b9032ac476d"
 }
