@@ -2,5 +2,8 @@
   "artifact": "////nextminor",
   "cacheImageName": "",
   "versioningStrategy": 15,
-  "workflowSchedule": "0 2 * * 6"
+  "workflowSchedule": 
+  {
+    "cron":  "0 2 * * 6"
+  }
 }
