@@ -3,9 +3,5 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "repoVersion": "2.0",
-    "DeployToMy-QA": {
-    "EnvironmentName": "CIT_develop",
-    "continuousDeployment": true
-  }
+  "repoVersion": "2.0"
 }
