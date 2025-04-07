@@ -2,5 +2,8 @@
   "artifact": "////latest",
   "cacheImageName": "",
   "versioningStrategy": 15,
-  "workflowSchedule": "0 2 * * *"
+  "workflowSchedule": 
+  {
+    "cron":  "0 2 * * *"
+  }
 }
