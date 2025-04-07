@@ -5,5 +5,7 @@
   "workflowSchedule": 
   {
     "cron":  "0 2 * * *"
-  }
+  },
+  "useCompilerFolder": false,
+  "doNotPublishApps": false
 }
