@@ -1,10 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-    "DeployToPROD": {
-      "environmentName": "Production",
-      "continuousDeployment": true
-  },
   "useCompilerFolder": false,
   "doNotPublishApps": false
 }
