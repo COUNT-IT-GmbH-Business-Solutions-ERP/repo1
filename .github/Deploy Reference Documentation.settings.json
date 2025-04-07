@@ -1,0 +1,6 @@
+{
+  "workflowSchedule": 
+  {
+    "cron":  "0 2 * * *"
+  }
+}
